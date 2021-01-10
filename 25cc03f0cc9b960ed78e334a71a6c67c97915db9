@@ -1,0 +1,89 @@
+[33mcommit a82d3b40553c6b7eb6bb2aadfece114ead2a5099[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Sat Jan 9 22:55:18 2021 -0300
+
+    Add routers and StepsHeader
+
+[33mcommit 25cc03f0cc9b960ed78e334a71a6c67c97915db9[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Sat Jan 9 22:52:04 2021 -0300
+
+    Add routers and StepsHeader
+
+[33mcommit 3a4a936a3858052987ba180438e8fef68abecbee[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Sat Jan 9 14:56:04 2021 -0300
+
+    Add footer
+
+[33mcommit 096ee309c06ff4a52f8d3ca76512cb4fccd6b9f2[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Sat Jan 9 14:26:01 2021 -0300
+
+    Add home page
+
+[33mcommit 4ccb4da08329e4d5d595e0c64deaf54dcd44f6cb[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Fri Jan 8 11:16:41 2021 -0300
+
+    Add Navbar
+
+[33mcommit f6c4b08dc01216990656afdffedde0c15b40fc4b[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Fri Jan 8 00:32:04 2021 -0300
+
+    Create front-web initial files
+
+[33mcommit f3f9f4a1c59ee7b62c30d64de24aeb750cc49262[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Thu Jan 7 11:19:37 2021 -0300
+
+    Ready to prod
+
+[33mcommit 823f4c4a6fa0498f92914800ba7ee39a56f3c609[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Thu Jan 7 10:33:39 2021 -0300
+
+    PUT /orders/{id}/delivered
+
+[33mcommit b6ad89890dee80ba108f2aa6083160187fb731b6[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Thu Jan 7 10:18:31 2021 -0300
+
+    POST /orders
+
+[33mcommit 08d5352346e9f193abc02aa335c93f815a4e4c74[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Thu Jan 7 09:44:44 2021 -0300
+
+    GET /orders
+
+[33mcommit df481c29c9653b7e3dfaa2180f3103152eddf8fb[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Thu Jan 7 05:50:09 2021 -0300
+
+    GET /products
+
+[33mcommit 35b02c06be448b2b87b39d3d01f8bed11db2be52[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Wed Jan 6 10:26:48 2021 -0300
+
+    Domain model
+
+[33mcommit bf062586248dc8ea0e3e37c53e4c68b57603ca5c[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Tue Jan 5 10:18:07 2021 -0300
+
+    Dependencies, properties files and security configurations
+
+[33mcommit 51c1f23396ebcec5c50f5e26c505925eb603e99b[m
+Author: mirndlazaro <mirandaalazaro@gmail.com>
+Date:   Tue Jan 5 09:57:57 2021 -0300
+
+    Project created
+
+[33mcommit ab4c36791c8700d871f1455f73048ddc46c53069[m
+Author: lazinho <mirandaalazaro@gmail.com>
+Date:   Mon Jan 4 23:04:01 2021 -0300
+
+    Project created
